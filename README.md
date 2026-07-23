@@ -17,7 +17,7 @@ An end-to-end Custom IC design and physical verification project for a **2:1 Tra
 ## 📑 Full Design Report
 You can view or download the complete PDF report here:
 👉 **[CMOS_MUX21_45nm_Design_Report.pdf](./CMOS_MUX21_45nm_Design_Report_2.pdf)**
-*(Lưu ý: Bạn hãy đổi tên `CMOS_MUX21_45nm_Design_Report_2.pdf` ở trên cho đúng chính xác từng ký tự với tên file PDF bạn vừa up ở Bước 1 nhé)*
+
 
 ---
 
